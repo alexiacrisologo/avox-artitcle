@@ -1,6 +1,6 @@
 ---
 title: "Vox Article"
-subtitle: "Alexia Crisologo W101"
+subtitle: "Alexia Crisologo W101 | April 23, 2024 4:40pm EST"
 format: html
 editor: source
 execute:
@@ -13,17 +13,14 @@ remotes::install_github("gadenbuie/tiktokrmd")
 library(tiktokrmd)
 ```
 
-## April 23, 2024 4:40pm EST
 
-*Alexia Crisologo is a freshmen at Duke University, pursing a degree in statistics on a pre med track. Her work explores the trends of food on TikTok through their histories and futures.*
-
-Have you heard of baked feta pasta?  What about chocolate covered strawberries?  Perhaps a chamoy pickle?  What about girl dinner?  All of the terms above are seemingly very simple and seem obvious, but each has held their individual reign over tik tok.  Now, you may ask, how were chocolate covered strawberries trending on tik tok?  They're a well known dessert which is a common sweet treat to indulge.  Well, after observing the trends it's easy to see the pattern, so let's look into what really causes these food trends to captivate us users.  
+Have you heard of baked feta pasta?  What about chocolate covered strawberries?  Perhaps a chamoy pickle?  What about girl dinner?  All of the terms above are seemingly very simple and seem obvious, but each has held their individual reign over Tik Tok.  Now, you may ask, how were chocolate covered strawberries trending on Tik Tok?  They're a well known dessert which is a common sweet treat to indulge.  Well, after observing the trends it's easy to see the pattern, so let's look into what really causes these food trends to captivate us users.  
 
 **Rethinking Food:**
 
 Starting off, [girl dinner](https://www.tiktok.com/tag/girldinner),[@girl_dinner] a trend started by [Olivia Maher](https://www.tiktok.com/@liviemaher/video/7232130214506057003),[@Jennings] has evolved into many [different paths](https://www.vox.com/culture/23831903/girl-dinner-tiktok-trends-hot-girl-walk). Originally, she posted what she was eating for dinner, cheese, grapes and bread to indulge in her "medieval" cravings. The trend started to pick up speed and was seen as a way to promote positivity about feeding [indulgences](https://www.aol.com/tried-21-energy-drink-brands-211400312.html) [@Martin]as well as to support other girls in their eating habits. 
 
-A notable adaptation was the interchangeability of girl dinner and sweet treats. [Sweet treats](https://www.tiktok.com/discover/sweet-treats?lang=en) [@sweet_treat]were seen as a post dinner snack such as a Starbucks drink or even a piece of chocolate. The evolution of this trend makes it hard to designate an exact timeframe in which it was trending for, but for the moment it has been around for nearly a year. While some think the trend is dead or "cheugy" [@Jennings], in my opinion, this trend is still circulating as seen in the tik tok published March 3, 2024 by \@ alllthingsfood.
+A notable adaptation was the interchangeability of girl dinner and sweet treats. [Sweet treats](https://www.tiktok.com/discover/sweet-treats?lang=en) [@sweet_treat]were seen as a post dinner snack such as a Starbucks drink or even a piece of chocolate. The evolution of this trend makes it hard to designate an exact timeframe in which it was trending for, but for the moment it has been around for nearly a year. While some think the trend is dead or "cheugy" [@Jennings], in my opinion, this trend is still circulating as seen in the Tik Tok published March 3, 2024 by [@alllthingsfood].
 
 ```{r tiktok2}
 tiktok_embed("https://www.tiktok.com/@alllthingsfood/video/7341787163912113440?_r=1&_t=8l5w9pOgKFe")
@@ -37,7 +34,7 @@ I see no end in sight because of the immense adaptations it has take on. For exa
 tiktok_embed("https://www.tiktok.com/@s4r4h43/video/7335572867855306016?_r=1&_t=8l5pZ0NWRnn")
 ```
 
-This trend has adapted to more than just food. Mimicking the style of the strawberry video, people will record things they love with flash to the same audio by Cadwell, for example, this video of a cat by user \@ chillestcat:
+This trend has adapted to more than just food. Mimicking the style of the strawberry video, people will record things they love with flash to the same audio by Cadwell, for example, this video of a cat by user [@chillestcat]:
 
 ```{r tiktok-3}
 tiktok_embed("https://www.tiktok.com/@chillestcat/video/7335920609815301381?_r=1&_t=8lE3Us5WV0U")
@@ -49,7 +46,7 @@ There are some extreme opinions in the comments mentioning their anger with how 
 
 The next trend, [baked feta pasta](https://www.huffpost.com/entry/tik-tok-pasta-recipe_l_6022cfacc5b689330e332dfa), was popular in the year of 2021.  [CNN reports](https://www.cnn.com/2021/03/29/us/tiktok-food-trends-youth-trnd/index.html) that the grocery chain, [Harris Teeter](https://www.harristeeter.com/), reported a 200% jump in block feta sales during the peak of this trend in February 2021.  Similar to all the rethinking food options so far, this trend is popular because of its simplicity which allows replicability as well as recognizable ingredients.  In this way, anyone can feel like a food celebrity CNN states, how foodie culture shifts to not just be high end foodies, but something more focused on the middle class.
 
-Here is an exmaple of a feta pasta Tik Tok from user @ feelgoodfoodie:
+Here is an example of a feta pasta Tik Tok from user [@feelgoodfoodie]:
 
 ```{r tiktok-4}
 tiktok_embed("https://www.tiktok.com/@feelgoodfoodie/video/7325261859462876459?lang=en")
