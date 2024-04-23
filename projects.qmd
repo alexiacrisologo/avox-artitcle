@@ -6,6 +6,7 @@ editor: source
 execute:
  echo: FALSE 
 bibliography: references.bib
+image: img/girl dinner.png
 ---
 
 ```{r load-packages, echo = F, message = F, force = T}
@@ -102,9 +103,15 @@ One reason the advertisements do so well is because of the extreme opinions. The
 
 As I have scrolled through Tik Tok, I have seen many comments which speak about the [negative effects](https://health.clevelandclinic.org/red-dye-40)[@negative_effects] of [red 40](https://www.ewg.org/foodscores/products/079426000055-RicosChamoyFlavoredJumboPickleChamoy/) [@red_40], which is the dye making the pickles red. So additionally, it is extreme because of health concerns. On top of that, there is an element of the unknown which entices people to watch. Similar to when people are driving and stare at accidents as they pass by because they want to understand what happened, people are drawn into these videos with such extreme flavor combinations. They are extreme in both the flavor combinations, but also in the opinions of those who try it. Because, not everyone believes that every person who has ever tried the chamoy pickle enjoys it, but that is what is seen in nearly all of the advertisements.
 
-Besides the pickle being bright red, they scoop out the center and fill it with either [Hot Cheetos](https://www.cheetos.com/product-category/flamin-hot) [@hot_cheetos] or [Takis](https://takis.ca/), sour gummy strings, [Gushers](https://www.gushers.com/) [@gushers], a sour candy syrup, [chamoy spice](https://www.holajalapeno.com/chamoy-2/) [@chamoy_spice], and finally wrap it up in a [Fruit Roll Up](https://www.fruitrollups.com/)[@fruitrollups]. Knowing this, it is evident why people are so enthralled by this trend since it combines sweet and salty as well as sour. When this trend originally came out it reminded me of the jalapeno challenge which emerged during quarantine. This was a challenge, but it evoked extreme opinions in the viewers based on its unnaturally hot contents. The main reason for its success was for a challenge and entertainment rather than for commodity purposes.
+Besides the pickle being bright red, they scoop out the center and fill it with either [Hot Cheetos](https://www.cheetos.com/product-category/flamin-hot) [@hot_cheetos] or [Takis](https://takis.ca/), sour gummy strings, [Gushers](https://www.gushers.com/) [@gushers], a sour candy syrup, [chamoy spice](https://www.holajalapeno.com/chamoy-2/) [@chamoy_spice], and finally wrap it up in a [Fruit Roll Up](https://www.fruitrollups.com/)[@fruitrollups]. Knowing this, it is evident why people are so enthralled by this trend since it combines sweet and salty as well as sour. When this trend originally came out it reminded me of the [jalapeno challenge](https://www.tiktok.com/discover/stuffed-jalapeno-peppers-cream-cheese-takis)[@jalapeno_challenge] which emerged during quarantine, for example this video form user [@trinhdoesthings]:
 
-Some other trends which can be used for commodities may be mukbangs. While this trend is very popular on Youtube, it has made its debut on Tik Tok as well.  There were different types of mukbang style tik toks I came across:
+```{r tiktok-8}
+tiktok_embed("https://www.tiktok.com/@trinhdoesthings/video/6960369361899064581")
+```
+
+This was a challenge, but it evoked extreme opinions in the viewers based on its unnaturally hot contents. The main reason for its success was for a challenge and entertainment rather than for commodity purposes.
+
+Some other trends which can be used for commodities may be [mukbangs](https://abcnews.go.com/US/inside-rise-mukbang-eating-videos/story?id=100440506) [@mukbangs]. While this trend is very popular on Youtube, it has made its debut on Tik Tok as well.  There were different types of mukbang style tik toks I came across:
 
 College aged students eating popular food brands such as Chipotle or Mcdonalds
 
@@ -134,5 +141,5 @@ Boots
 
 There are a lot of nurses who use Stanleys and personalize them with a mini backpack to hold their chapstick, as well as a decorative straw cover to function not only as a way to keep their water fresh, but also stylish and safe. They have a name tag on the top which is made in resin and sometimes there are dangling keychains off of the handle which can be personalized. While I have not been able to find these items on Tik Tok shop, I have found them on Etsy ans Amazon. This is a commodification in many ways. Firstly by influencing individuals to buy the water bottle and conniving them it is the best, and secondly in the decoration and personalization regardless of the platform in which the items are bought.
 
-All in all, tik tok acts as a commodification service for their own shop, outside shops, and the individuals who share the products in their online videos.
+All in all, Tik Tok acts as a commodification service for their own shop, outside shops, and the individuals who share the products in their online videos.
 
