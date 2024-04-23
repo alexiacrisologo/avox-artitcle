@@ -58,3 +58,81 @@ Back when this trend was at its peak, I tried it, and I can say it is extremely 
 
 Overall, rethinking food gains popularity through common skills and ingredients, showing how anyone can be a chef as well as motivating individuals to create their own trends if they also have a simple recipe which they would like to show off to the world.  This is a very authentic style of trend, where real people show their steps and connect with other users in the comments about how simple and delicious the recipes are.
 
+**Commodity and Extreme Opinions**
+
+Food trends on Tik Tok have been circulating for as long as the app has been in use. Over time, Tik Tok has been able to commodify these trends through both TikTok shop as well as outside sponsorship and partnerships with brands. The trends which are seen as “inherently” Tik Tok end up being sold on [Tik Tok shop](https://business.tiktokshop.com/us/seller)[@tiktokshop], similar to [Facebook Marketplace](https://www.facebook.com/marketplace/) [@facebookmarketplace], except with verified brands/ individuals with products to sell. Often when coming across these videos, they all seem to be very shallow and not authentic.
+
+Take the video by [@Aubrey_Sikes] for example, where she continuously mentions how this is the best [chamoy pickle](https://candymexexpress.com/products/double-tex-chamoy-pickle-kit-16pc?variant=46664299610429&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQAUQ9YOrAlZD7bMOv8_Z30lx1ybsnDgrjDw0M-xMU68Jy19YeHv5OzxoCdLgQAvD_BwE) [@chamoy_pickle] kit in the market and how we have to buy it now since there is a one time sale!  
+
+```{r tiktok-5}
+tiktok_embed("https://www.tiktok.com/@aubreysikeee/video/7326024013728304427?_r=1&_t=8lE3nb4tCx9")
+```
+
+Her caption reads “I just ordered two more,” showing how she simply cannot get enough of this unique snack. Here is a compliation of other users commissioned for the [Tik Tok Shop Chamoy Pickle:](https://www.youtube.com/watch?v=R0vcR6Fzhf4&ab_channel=ZEL) [@picklecompilation]
+
+After scrolling through Tik Tok for longer than I would like to admit, I have created a list of all of the similarities I found in these advertisements for the same product. Here are my findings:
+
+1. There is always a sale happening now! This causes us to feel like we have to buy the product since it is so cheap and justifies the cost
+
+2. The pickle is always seen as “the best” in the game, and that makes us feel that this brand is seemingly the most reliable on Tik Tok and that is the reason we should choose this brand over all else
+
+3.The advertisements always show them making the pickle, nearly all having the steps in the same order
+
+4.The videos as mentioned before feel very scripted without much room for authenticity. Each advertisement seems to be an exact copy of the one before it which makes it feel very robotic and almost deters me from buying the product since it is very obvious the only reason the individual is posting the video is for a profit
+
+As delineated above, the trends on Tik Tok have now turned from entertainment purposes into solely commodification of videos. For the most part, advertisements on Tik Tok tend to blend in with the rest of the videos as you scroll through. This is one way which causes users to fall into the trap of watching these advertisements and giving however much money to the brand owner as the time they watch the video. It is easy to catch these videos now with the Tik Tok update where it shows the advertisement bar in the bottom left of the video by user [@leticiapinh3iro]. 
+
+![leticiapinh3iro, Tik Tok](<a href="https://imgbb.com/"><img src="https://i.ibb.co/VSdMrTn/IMG-715-C99755967-1.jpg" alt="IMG-715-C99755967-1" border="0"></a>)
+
+Interestingly enough, both Leti and Aubrey's videos were posted on the same date.  This leads me to believe the company, TexMex, sends out mass requests for advertisements to be posted by a certain date in order to earn commission.
+
+```{r tiktok-6}
+tiktok_embed("https://www.tiktok.com/@leticiapinh3iro/video/7325923851785751851?embed_source=121374463%2C121404359%2C121351166%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed_pause_share&refer=embed&referer_url=labs-az-08.oit.duke.edu%3A30163%2Fp%2F523bed09%2F&referer_video_id=7325923851785751851")
+```
+
+But if the advertisements can be found almost instantly and for the chamoy pickles they feel very shallow and unauthentic, why do people watch them?
+
+Because the chamoy pickle has so many contrasting flavors, it can be seen as very controversial. There are Tik Toks which the individual who is completing the advertisement is not a fan of the pickle such as the husband in user [@taylordowns_24] video:
+
+```{r tiktok-7}
+tiktok_embed("https://www.tiktok.com/@taylordowns.24/video/7337163068025113902?_r=1&_t=8l5weS88jFO")
+```
+
+One reason the advertisements do so well is because of the extreme opinions. There are already a lot of people [who do not like pickles](https://www.tiktok.com/discover/hates-pickles-love-pickles)[@picklecontriversy], but these pickles are red. This marketing strategy is bright, causing the pickle to be extremely eye-catching.
+
+As I have scrolled through Tik Tok, I have seen many comments which speak about the [negative effects](https://health.clevelandclinic.org/red-dye-40)[@negative_effects] of [red 40](https://www.ewg.org/foodscores/products/079426000055-RicosChamoyFlavoredJumboPickleChamoy/) [@red_40], which is the dye making the pickles red. So additionally, it is extreme because of health concerns. On top of that, there is an element of the unknown which entices people to watch. Similar to when people are driving and stare at accidents as they pass by because they want to understand what happened, people are drawn into these videos with such extreme flavor combinations. They are extreme in both the flavor combinations, but also in the opinions of those who try it. Because, not everyone believes that every person who has ever tried the chamoy pickle enjoys it, but that is what is seen in nearly all of the advertisements.
+
+Besides the pickle being bright red, they scoop out the center and fill it with either [Hot Cheetos](https://www.cheetos.com/product-category/flamin-hot) [@hot_cheetos] or [Takis](https://takis.ca/), sour gummy strings, [Gushers](https://www.gushers.com/) [@gushers], a sour candy syrup, [chamoy spice](https://www.holajalapeno.com/chamoy-2/) [@chamoy_spice], and finally wrap it up in a [Fruit Roll Up](https://www.fruitrollups.com/)[@fruitrollups]. Knowing this, it is evident why people are so enthralled by this trend since it combines sweet and salty as well as sour. When this trend originally came out it reminded me of the jalapeno challenge which emerged during quarantine. This was a challenge, but it evoked extreme opinions in the viewers based on its unnaturally hot contents. The main reason for its success was for a challenge and entertainment rather than for commodity purposes.
+
+Some other trends which can be used for commodities may be mukbangs. While this trend is very popular on Youtube, it has made its debut on Tik Tok as well.  There were different types of mukbang style tik toks I came across:
+
+College aged students eating popular food brands such as Chipotle or Mcdonalds
+
+Females who were able to eat large amounts of food in one sitting
+
+Mukbangs of food which is not common in everyday American culture
+
+Again, there is some pushback with these trends. The extreme opinions start in the comments by shaming the individuals for how much they eat in one sitting, sometimes even counting calories, as well as being astonished that the individuals were really able to eat that much. While these videos are entertaining, there have been some users who have faked the amount they truly eat and caused outside viewers to analyze their Tik Toks based on if they ever swallow the food as well as their live streams to show that there are outside individuals who also help to consume the food. Regardless, these videos have picked up a large following because of the extreme opinions they invoke.
+
+Another reason these videos gain popularity is by making their viewers crave the food. Often they have an interesting order which is slightly out of the ordinary and causes the viewer to want to get the same item. I have fallen for this, after watching @ dylan mcarthur eat chipotle with a vinaigrette and sour cream mixture as a side, I went to Chipotle the next day for dinner with my friends to try it out.
+
+While the individuals in these videos do not have the sponsorship tag in the bottom corner of their videos meaning they do not earn direct profit form the company for showing off their product, I think they still earn money based on the views on each of their videos. Upon further research Tik Tok states that individuals can earn a profit on their videos if they have at least 100,000 views within the last 30 days so long as you have a minimum of 10,000 followers and are part of the Tik Tok Creator's Fund. The amount earned fluctuates per day, sort of like the stock prices, but on average every 1000 views yields from around 2 cents to 4 cents.
+
+The last trend I will shine light on based on its commodification is watertok. Scrolling through this hashtag shows how water is being advertised in the form of various types of water bottles. The water bottles started trending around 2018 when Sip by Swell came out. I remember when I visited Target the shelves were always stocked with the latest patterns and that everyone in school had them. Over the years, they have lost popularity and it has shifted from Hydro Flasks before the pandemic, to Stanleys and Owalas afterwards. The reason I see lots of Owalas on my college campus are because they fit into the water bottle holder in backpacks, which Stanleys do not. Otherwise, their popularity is not as widespread. The one which I feel has the most influence currently are Stanley Quenchers (with the handles, both 40 oz and 30 oz).
+
+While all of these water bottles serve the same purpose, they fall into the commodification realm because of their accessories. Stickers were a way to decorate hydroflasks, but Stanleys have taken decoration to the next level. The main demographic of this trend is females. Whether you are 40 and own a business, or a teenager, these videos come on your for you page. There are many different accessories to show off your individual self and personality on your water bottle. The main ones are as follows:
+
+Straw caps
+
+Mini pouches
+
+Name tags
+
+Dangle keychains
+
+Boots
+
+There are a lot of nurses who use Stanleys and personalize them with a mini backpack to hold their chapstick, as well as a decorative straw cover to function not only as a way to keep their water fresh, but also stylish and safe. They have a name tag on the top which is made in resin and sometimes there are dangling keychains off of the handle which can be personalized. While I have not been able to find these items on Tik Tok shop, I have found them on Etsy ans Amazon. This is a commodification in many ways. Firstly by influencing individuals to buy the water bottle and conniving them it is the best, and secondly in the decoration and personalization regardless of the platform in which the items are bought.
+
+All in all, tik tok acts as a commodification service for their own shop, outside shops, and the individuals who share the products in their online videos.
+
