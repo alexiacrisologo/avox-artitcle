@@ -168,5 +168,29 @@ All in all, Tik Tok acts as a commodification service for their own shop, outsid
 
 **Challenges/ Entertainment**
 
+As mentioned above with the jalapeno challenge, some of the food trends on Tik Tok are challenges which are meant to entertain an audience.  This audience is typically for Generation Z, since that is the population who most frequently uses the app.
 
+An example of a challenge is the couples eating challenge, as seen in this video by user [@Regina]:
+
+```{r tiktok-13}
+tiktok_embed("https://www.tiktok.com/@regi.__.18/video/7351239930221317419?_r=1&_t=8llM4jc9nvK")
+```
+
+Here, couples will get a meal from a fast food restaurant, play rock, paper, scissors, and the loser has to run to a designated spot and back while the winner gets time to eat the meal (this repeats until the meal is finished.  The point of the challenge is to be the individual who eats the most of the meal and thus wins the most rounds of rock paper scissors.
+
+This trend is seemingly harmless, but when investigated further in the comments, there are harmful comments surrounding gender norms in the comments.  I have found that typically the men are able to eat more of the meal when it is their turn, some even eating half of a burger in one bite.  In the comments, the men are typically seen as funny, and the audience is astonished.  This obviously leads the male to “win” the challenge and eat more of the meal than the female.  
+
+When a female wins and eats more of the meal or eats sloppily, she is faced with [hateful comments](https://www.cbsnews.com/miami/news/fighting-back-against-food-shaming-phenomenon/) [@cbs].  These typically include shaming her for being unladylike, eating too much to the point where she will gain weight, etc.  This stood out to me since while there are men who have eating disorders, the female body standard is to be slim and fit.  Thus, it means that much more.  I was not able to find anything about the female responding to the hateful comments, but no one likes to be shamed for their eating habits.  Whether or not they choose to showcase their lives on Tik Tok after the trend, they were affected by the comments and may have changed their eating habits or picked up a new diet.  
+
+Body shaming is one negative consequence of food trends on Tik Tok in terms of [body positivity](https://www.forbes.com/sites/jenniferpalumbo/2022/05/12/how-the-body-positive-movement-doesnt-encourage-obesity-but-inclusion/?sh=608cb4191737) [@Palumbo].  While there are trends such as Girl Dinner to combat these harmful eating habits, (such as starvation) more often than not gender inequality is still prevalent. 
+
+Female mukbang videos were where I found the most of this hate, mentioning how the women are too skinny to be truly eating as much as they do.  There are often opposite comments as well, some saying she needs to eat more since the content creator is too skinny, while others shaming her for eating so much.  Of course, some people mention that she is eating enough to “feed a village” which is not tied to gender inequality, but is still relevant.  When comparing this to male mukbangs, there are far fewer of these comments, if they mention the quantity of food eaten, it typically is with respect for the male.  An instance where I found negative comments were surrounding [Nikocado](https://www.youtube.com/watch?v=wJa2thBJ8Fw&ab_channel=SunnyV2) [@Nikocado], a youtuber who used to be skinny at the start of his career, but has gained weight over the years.  
+
+This issue is present in Today’s society, although women’s rights movements have made progress within the last 100 years, there are still issues that persist.  Thus, though these trends can be entertaining for some, there are negative effects which come as a consequence.  Individuals can still watch these trends and enjoy them, but it is important to be conscious of the harmful impact which could ensue for certain viewers and content creators.
+
+**Conclusion**
+
+In conclusion, there are more reasons to investigate food trends on Tik Tok than solely for entertainment purposes, but for commodification, and sharing new ways to think about food.  With these trends, some ethical concerns arise such as body image, gender differences, quantities eaten by one individual, and more.  Keeping all of these in mind, Tik Tok is meant for enjoyment, so watch the trends with caution.  For teh general audience of Generation Z, thes trends are culturally significant given the large population on the app.  We have strong ties of [identity](https://academic.oup.com/illinois-scholarship-online/book/45009?login=true)[@Cotnois] with food, both culturally and genetically.  Hence, why when creating food trends, one must be careful the negative effects which can affect others.  
+
+When creating a food trend and sharing your own recipe, be authentic, use simple ingredients, and have the trend be recognizable.  When creating  or sharing a commodification trend, have extreme opinions, be shallow, and act scripted.  And finally, when completing a challenge, be entertaining, and cautious of the greater implications the trend may have.  With all of this being said, do you have what it takes to create the next top Tik Tok food trend?
 
