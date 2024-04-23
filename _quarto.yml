@@ -16,7 +16,7 @@ website:
         href: https://github.com/alexiacrisologo/avox-article
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2024, Alexia Crisologo"
+    left: "&copy; Copyright 2024 jtr13/website-template, Alexia Crisologo"
 
 format:
   html:
