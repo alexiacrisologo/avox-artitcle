@@ -6,7 +6,7 @@ editor: source
 execute:
  echo: FALSE 
 bibliography: references.bib
-image: img/girl dinner.png
+image: img/girl_dinner.png
 ---
 
 ```{r load-packages, echo = F, message = F, force = T}
