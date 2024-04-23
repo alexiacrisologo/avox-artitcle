@@ -6,8 +6,9 @@ editor: source
 execute:
  echo: FALSE 
 bibliography: references.bib
-image: img/girl_dinner.png
 ---
+
+[Navya Gautam and Alexia Crisologo, 2024](<a href="https://ibb.co/wyLZ06Z"><img src="https://i.ibb.co/dBcsWKs/girl-dinner.png" alt="girl-dinner" border="0"></a>)
 
 ```{r load-packages, echo = F, message = F, force = T}
 remotes::install_github("gadenbuie/tiktokrmd")
@@ -29,7 +30,7 @@ tiktok_embed("https://www.tiktok.com/@alllthingsfood/video/7341787163912113440?_
 
 I see no end in sight because of the immense adaptations it has take on. For example trends such as the famous chocolate covered strawberries, the comments are flooding with hashtags mentioning girl dinner. This trend is important in the food realm of Tik Tok, especially after a video of chocolate covered strawberries emerged. Under an instrumental sound, someone recorded a 15 second video of strawberries. It gained 49 million likes in 2 months, which is the second most liked video, behind [Bella Poarch's lip sync to M to the B](https://www.tiktok.com/@bellapoarch/video/6862153058223197445?lang=en) [@Bella_Poarch]. Verified accounts such as the [Baltimore Orioles](https://www.tiktok.com/@orioles?lang=en) [@Baltimore_Orioles] even commented, confused on how the trend was so successful:
 
-\[TikTok\](<a href="https://ibb.co/87tjys7"><img src="https://i.ibb.co/gRhD09R/Screenshot-2024-04-03-at-2-46-48-PM.png" alt="Screenshot-2024-04-03-at-2-46-48-PM" border="0"/></a>)
+[TikTok](<a href="https://ibb.co/87tjys7"><img src="https://i.ibb.co/gRhD09R/Screenshot-2024-04-03-at-2-46-48-PM.png" alt="Screenshot-2024-04-03-at-2-46-48-PM" border="0"/></a>)
 
 ```{r tiktok-2}
 tiktok_embed("https://www.tiktok.com/@s4r4h43/video/7335572867855306016?_r=1&_t=8l5pZ0NWRnn")
@@ -83,7 +84,7 @@ After scrolling through Tik Tok for longer than I would like to admit, I have cr
 
 As delineated above, the trends on Tik Tok have now turned from entertainment purposes into solely commodification of videos. For the most part, advertisements on Tik Tok tend to blend in with the rest of the videos as you scroll through. This is one way which causes users to fall into the trap of watching these advertisements and giving however much money to the brand owner as the time they watch the video. It is easy to catch these videos now with the Tik Tok update where it shows the advertisement bar in the bottom left of the video by user [@leticiapinh3iro]. 
 
-![leticiapinh3iro, Tik Tok](<a href="https://imgbb.com/"><img src="https://i.ibb.co/VSdMrTn/IMG-715-C99755967-1.jpg" alt="IMG-715-C99755967-1" border="0"></a>)
+[leticiapinh3iro, Tik Tok](<a href="https://imgbb.com/"><img src="https://i.ibb.co/VSdMrTn/IMG-715-C99755967-1.jpg" alt="IMG-715-C99755967-1" border="0"></a>)
 
 Interestingly enough, both Leti and Aubrey's videos were posted on the same date.  This leads me to believe the company, TexMex, sends out mass requests for advertisements to be posted by a certain date in order to earn commission.
 
