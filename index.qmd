@@ -3,17 +3,10 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/7DF54494-7865-4670-B96E-91F17CCF209E_1_105_C.png
 ---
 
-:::{#me}
 
-## Goals
+Alexia Crisologo is a freshmen at Duke University, pursing a degree in statistics on a pre med track. Her work explores the trends of food on TikTok through their histories and futures
 
-## Education
 
-## Experience
-
-:::
-
-Thanks for checking out my web site!
